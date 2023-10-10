@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-api",  
+  "version": "1.0.0",
+  "description": "API para un e-commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "fs": "0.0.1-security"
+  }
+}

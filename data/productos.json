@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "title": "Pantalon",
+      "descripcion": "Pantalon de algodon",
+      "code": "PROD001",
+      "price": 20.99,
+      "status": true,
+      "stock": 50,
+      "category": "Categoría 1",
+      "thumbnails": ["path/to/image1.jpg", "path/to/image2.jpg"]
+    },
+    {
+      "id": "2",
+      "title": "Remeras",
+      "descripcion": "Remeras de algodon",
+      "code": "PROD002",
+      "price": 15.49,
+      "status": true,
+      "stock": 30,
+      "category": "Categoría 2",
+      "thumbnails": ["path/to/image3.jpg", "path/to/image4.jpg"]
+    }
+  ]
+  
